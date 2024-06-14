@@ -61,4 +61,29 @@
 蝙蝠侠|有钱|32
 海王|游泳|16
 闪电侠|跑|18
-  
+
+### 代码片段
+```c
+	#include <stdio.h>
+	int main(void)
+	{
+		printf("test code\n");
+		return 0;
+
+	}
+```
+
+```cpp
+	#include <iostream>
+```
+```python
+	import <os>
+```
+
+
+```bash
+	echo "测试"
+	pwd
+	ps aux
+	ls -l
+```
